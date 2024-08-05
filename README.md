@@ -24,4 +24,26 @@ for children.
 ![Proposed CNN](ProposedCNN.drawio.png)
 
 
+# Comparative Performance Analysis
+
+• VGG16 and VGG19 showed high training (T) accuracy and F1 scores but
+exhibited a significant drop in performance during validation (V), indicating
+a possible overfitting tendency.
+• ResNet50 demonstrated the smallest difference (D) between training and validation metrics, suggesting better generalization capabilities, though its overall performance was lower compared to the VGG models.
+• InceptionV3 balanced performance and generalization moderately well, with
+a mid-range difference between training and validation results.
+
+Despite having significantly fewer parameters (|P|), our CNN* achieved competitive
+accuracy and F1 scores, particularly in the validation phase. This indicates a more
+efficient use of parameters and a balanced generalization ability.
+
+
+![](Accuracy-F1.png)
+
+
+# Video Processing and Result
+
+![](AnimeEPEvaluation.png)
+
+
 
