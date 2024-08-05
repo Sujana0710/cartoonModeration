@@ -17,7 +17,8 @@ extraction capabilities with the computational efficiency of Inception models.
 Tailored specifically for discerning content in cartoons that might be unsuitable for
 younger audiences, this architecture leverages the combined strengths of VGG16's
 depth and Inception's breadth. The result is a comprehensive set of features capable of 
-accurately classifying various content types, thereby contributing to safer media consumption for children.
+accurately classifying various content types, thereby contributing to safer media consumption 
+for children.
 
 
 ![Proposed CNN](ProposedCNN.drawio.png)
