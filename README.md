@@ -43,7 +43,7 @@ efficient use of parameters and a balanced generalization ability.
 
 # Video Processing and Result
 
-![](AnimeEPEvaluation.png)
+![](Anime_EP_Evaluation.png)
 
 
 
