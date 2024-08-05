@@ -20,4 +20,7 @@ depth and Inception's breadth. The result is a comprehensive set of features cap
 accurately classifying various content types, thereby contributing to safer media consumption for children.
 
 
+![Proposed CNN](ProposedCNN.drawio.png)
+
+
 
